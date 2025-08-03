@@ -18,8 +18,14 @@
 .card{
     height: 206px;
 }
-
-
-
+.section-5 form{
+width: 90%;
+}
+.section-5 h1{
+    font-size: 30px;
+    width: 80%;
+   
+  
+}
 
 }
